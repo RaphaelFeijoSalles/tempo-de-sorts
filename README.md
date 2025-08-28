@@ -17,7 +17,7 @@ O programa é capaz de:
 
 ## Evolução do projeto
 
-- **Versão inicial (2022)**: primeira tentativa, experimental, com várias limitações.  
+- **Versão inicial (2024)**: primeira tentativa, experimental, com várias limitações.  
 - **Versão atual (2025)**: código modular, tratamento de entradas, formatação de listas grandes, medição de tempo precisa e repetição de execução.  
 - Este repositório mostra claramente a evolução do meu raciocínio e habilidades em Python.
 
